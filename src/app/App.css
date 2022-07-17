@@ -1,0 +1,20 @@
+html,
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.app-container {
+    width: 80%;
+    margin: 20px auto;
+}
+
+.workstations-heading {
+    text-align: center;
+}
+
+.workstations-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}

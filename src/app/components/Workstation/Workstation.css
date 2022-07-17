@@ -1,0 +1,20 @@
+.workstation-container {
+    padding: 10px;
+    border: 1px solid black;
+    flex-grow: 1;
+}
+
+.status-container {
+    display: flex;
+}
+
+.status-container p {
+    margin-top: 0;
+}
+
+.status-dot {
+    width: 10px;
+    height: 10px;
+    margin: 8px 6px 0;
+    border-radius: 50%;
+}
